@@ -75,6 +75,7 @@ main h2{
     color:  var(--cor4);
     font-weight: normal;
     background-image: linear-gradient(to right, var(--cor2), transparent);
+    min-width: 370px;
 }
 
 main{
